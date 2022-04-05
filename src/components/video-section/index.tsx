@@ -22,7 +22,7 @@ const VideoSection = () => (
       <div className={tw(`flex flex-col max-w-4xl mx-auto pt-28`)}>
         <div className={tw(`w-full`)}>
           <div className={tw(`relative shadow-2xl mx-6 lg:mx-0`)}>
-          <iframe width="80%" height="auto" src="https://www.youtube.com/embed/8_IlJfs8qkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="80%" height="auto" src="https://www.youtube.com/embed/8_IlJfs8qkk" title="YouTube video player" ></iframe>
             <PlayButton />
           </div>
         </div>

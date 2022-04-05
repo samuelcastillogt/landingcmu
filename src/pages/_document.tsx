@@ -37,6 +37,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <script async src="https://scripts.simpleanalyticscdn.com/latest.js" />
+          <meta name="google-site-verification" content="f10D9F5WtjVjpnWonuzM3ldFo-QxQ35J6Uh9apa3_FQ" />
         </Head>
         <body>
           <Main />

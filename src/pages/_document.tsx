@@ -38,7 +38,6 @@ class MyDocument extends Document {
         <Head>
           <script async src="https://scripts.simpleanalyticscdn.com/latest.js" />
           <meta name="google-site-verification" content="f10D9F5WtjVjpnWonuzM3ldFo-QxQ35J6Uh9apa3_FQ" />
-          <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-E1YWJ53YSJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
